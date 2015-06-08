@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 1.Pengenalan Global Warming
-=======
 # Hello World
->>>>>>> 8be33629d32fe6048f24c9cea819d03bf7054f9c
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
