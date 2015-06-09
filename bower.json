@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "presentation-1pengenalan-global-warming",
+=======
   "name": "presentation-hello-world",
+>>>>>>> 8be33629d32fe6048f24c9cea819d03bf7054f9c
   "version": "0.0.0",
   "dependencies": {
     "prism": "gh-pages"
