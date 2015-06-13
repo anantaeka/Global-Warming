@@ -1,0 +1,71 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title Bencana Alam
+    link(rel='stylesheet', type='text/css', href='build/build.css')
+  body
+    article
+      section
+        h1 Banjir
+
+      section
+        h4 
+          ul
+            li Disini Kita akan membahas seputar banjir
+            li Memberikan sedikit penjelasan tentang mengapa banjir bisa terjadi
+            li Memberikan efek-efek yang mungkin terjadi dari banjir
+            li Dan sedikit saran tentang cara mencegahnya
+
+       section
+         h2 Penyebab terjadinya banjir
+           h4 
+             p Sebagian besar dari bencana alam yang akan kita jelaskan sebenarnya adalah akibat dari perbuatan kita sendiri.Maka kita harus mulai lebih peduli kepada lingkungan kita sendiri dan mungkin kita akan bisa memperpanjang umur bumi kita.:)
+
+      section
+        h3 Klasifikasi banjir berdasarkan penyebabnya dibedakan menjadi beberapa jenis, yaitu :
+        h4 
+          ul
+            li 1. Luapan Air Sungai
+            li 2. Pendangkalan Sungai, Kali, Selokan, Danau, Situ, Dll
+            li 3. Kegagalan Tanah Menyerap Air
+            li 4. Penggundulan Hutan
+            li 5. Air Bah / Banjir Bandang
+            li 6. Hujan Deras Yang Lama
+            li 7. Air Laut Pasang (Rob)
+            li 8. Saluran Air Mampet
+            li 9. Perubahan Sistem Drainase Pembuangan Air
+            li 10. Tsunami Air Laut
+
+      section
+        h2 Luapan Air Sungai
+        h4 
+          p Sungai yang lebar dan kedalamannya tidak berubah, namun di sekitarnya terjadi peningkatan jumlah penduduk yang sangat signifikan dapat menyebabkan ketidakmampuan sungai untuk menampung secara keseluruhan air buangan, air hujan dan sampah yang masuk ke dalamnya. Jika sudah penuh, maka air akan menggenangi pinggiran sungai dan daerah rendah lainnya.
+
+      section
+        h2 Pendangkalan Sungai, Kali, Selokan, Danau, Situ, Dll
+        h4 
+          p Jika orang-orang selalu membuang sampah di sungai atau terus-menerus terjadi erosi tanah di sekitarnya, maka akan terjadi pendangkalan. Sungai, danau dan selokan yang dangkal tidak akan mampu menampung air dalam jumlah besar sehingga air akan meluap menggenangi sekitarnya dan daerah-daerah yang rendah.
+
+      section
+        h2 Kegagalan Tanah Menyerap Air
+        h4 
+          p Jika jumlah luas keseluruhan lahan terbuka hijau dan tanah kosong berkurang drastis di suatu daerah akibat berbagai sebab, maka air hujan yang turun akan langsung meluncur dengan cepat ke selokan, sungai dan akhirnya ke laut. Jika air yang meluncur tersebut sangat banyak jumlahnya, maka otomatis tidak akan tertampung di saluran air yang ada. Walhasil air yang tidak dapat ditampung oleh saluaran pembuangan air akan tergenang bebas dan menyebabkan banjir.
+
+      section(data-bespoke-hash='named-route')
+        h2 Contoh bencana alam yang akan kami bahas
+        h4
+          ul
+            li Global Warming
+            li Banjir
+            li Gempa Bumi
+            li Tanah Longsor
+            li Kebakaran Hutan
+            
+      section.emphatic-text(data-bespoke-backdrop='emphatic')
+        h4 
+          p Dari Kelima Contoh diatas 4 diantaranya adalah ulah dari manusia sendiri (walaupun penyebab alami juga mungkin terjadi tetapi jarang).Bisa terlihat bahwa kita kurang peduli terhadap lingkungan kita sendiri bahkan dalam hal-hal kecil seperti membuang sampah.jadi marilah kita menjaga lingkungan kita bersama untuk kepentingan bersama.:)
+
+
+    script(src='build/build.js')
