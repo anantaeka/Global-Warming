@@ -6,6 +6,25 @@ html
     title 1.Pengenalan Global Warming
     link(rel='stylesheet', type='text/css', href='build/build.css')
   body
+    div(class="container)
+      div(class="navbar-header")
+        button(type="button" data-toggle="collapse" data-target="presentation-chooser" class="navbar-toggle")
+          span(class="sr-only")
+          span(class="icon-bar")
+          span(class="icon-bar")
+          span(class="icon-bar")
+        a(href="index.html" class="navbar-brand")Pembahasan Bencana Alam
+      div(id="presentation-chooser" class="collapse navbar-collapse")
+        ul(class="nav navbar-nav")
+          li(class="dropdown")
+            a(data-toggle="dropdown" href="#" class="dropdown-toggle")Pilih Presentasi 
+              b(class="caret")
+            ul(class="dropdown-menu")
+              li 
+                a(href="BencanaAlam.jade")Bencana Alam
+              li
+                a href="Banjir.jade">Banjir
+      
     article
       section
         h2 Global Warming
