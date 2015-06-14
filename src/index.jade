@@ -6,25 +6,27 @@ html
     title 1.Pengenalan Global Warming
     link(rel='stylesheet', type='text/css', href='build/build.css')
   body
-    div(class="container)
-      div(class="navbar-header")
-        button(type="button" data-toggle="collapse" data-target="presentation-chooser" class="navbar-toggle")
-          span(class="sr-only")
-          span(class="icon-bar")
-          span(class="icon-bar")
-          span(class="icon-bar")
-        a(href="index.html" class="navbar-brand")Pembahasan Bencana Alam
-      div(id="presentation-chooser" class="collapse navbar-collapse")
-        ul(class="nav navbar-nav")
-          li(class="dropdown")
-            a(data-toggle="dropdown" href="#" class="dropdown-toggle")Pilih Presentasi 
-              b(class="caret")
-            ul(class="dropdown-menu")
-              li 
-                a(href="BencanaAlam.jade")Bencana Alam
-              li
-                a href="Banjir.jade">Banjir
-      
+    nav.navbar.navbar-default(role='navigation')
+      .container
+        .navbar-header
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='presentation-chooser')
+            span.sr-only
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand(href='index.html') Pembahasan Bencana Alam
+        #presentation-chooser.collapse.navbar-collapse
+          ul.nav.navbar-nav
+            li.dropdown
+              a.dropdown-toggle(data-toggle='dropdown', href='#')
+                | Pilih Presentasi 
+                b.caret
+              ul.dropdown-menu
+                li
+                  a(href='BencanaAlam.jade') Bencana Alam
+                li
+                  a(href='Banjir.jade') Banjir
+
     article
       section
         h2 Global Warming
