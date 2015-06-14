@@ -29,14 +29,9 @@ html
           ul
             li 1. Luapan Air Sungai
             li 2. Pendangkalan Sungai, Kali, Selokan, Danau, Situ, Dll
-            li 3. Kegagalan Tanah Menyerap Air
-            li 4. Penggundulan Hutan
-            li 5. Air Bah / Banjir Bandang
-            li 6. Hujan Deras Yang Lama
-            li 7. Air Laut Pasang (Rob)
-            li 8. Saluran Air Mampet
-            li 9. Perubahan Sistem Drainase Pembuangan Air
-            li 10. Tsunami Air Laut
+            li 3. Penggundulan Hutan
+            li 4. Air Bah / Banjir Bandang
+            li 5. Hujan Deras Yang Lama
 
       section
         h2 Luapan Air Sungai
@@ -49,23 +44,45 @@ html
           p Jika orang-orang selalu membuang sampah di sungai atau terus-menerus terjadi erosi tanah di sekitarnya, maka akan terjadi pendangkalan. Sungai, danau dan selokan yang dangkal tidak akan mampu menampung air dalam jumlah besar sehingga air akan meluap menggenangi sekitarnya dan daerah-daerah yang rendah.
 
       section
-        h2 Kegagalan Tanah Menyerap Air
-        h4 
-          p Jika jumlah luas keseluruhan lahan terbuka hijau dan tanah kosong berkurang drastis di suatu daerah akibat berbagai sebab, maka air hujan yang turun akan langsung meluncur dengan cepat ke selokan, sungai dan akhirnya ke laut. Jika air yang meluncur tersebut sangat banyak jumlahnya, maka otomatis tidak akan tertampung di saluran air yang ada. Walhasil air yang tidak dapat ditampung oleh saluaran pembuangan air akan tergenang bebas dan menyebabkan banjir.
+        h2 Penggundulan Hutan
+          p Hutan yang berisi berbagai macam pohon-pohon lebat nan rindang serta semak belukar yang rimbun dengan lantai hutan yang penuh dengan kompos alami sampah hutan dapat menyerap air hujan dalam jumlah besar. Jika hutan digunduli dan dipersempit, maka air hujan akan meluncur ke sungai dan kemudian berakhir di laut.
 
       section(data-bespoke-hash='named-route')
-        h2 Contoh bencana alam yang akan kami bahas
-        h4
-          ul
-            li Global Warming
-            li Banjir
-            li Gempa Bumi
-            li Tanah Longsor
-            li Kebakaran Hutan
+        h2 Air Bah / Banjir Bandang
+          p Air bah atau air banjir bandang yang datangnya cepat dan tiba-tiba bisa saja terjadi akibat terjadinya sesuatu hal seperti jebol tanggul, jebol bendungan, tanah longsor, hujan lebat di daerah sekitar hulu sungai, salju mencair masal secara tiba-tiba dan lain sebagainya. Banjir yang tiba-tiba ini bisa saja langsung menghajar dan menggenangi daerah pemukiman penduduk.
             
       section.emphatic-text(data-bespoke-backdrop='emphatic')
-        h4 
-          p Dari Kelima Contoh diatas 4 diantaranya adalah ulah dari manusia sendiri (walaupun penyebab alami juga mungkin terjadi tetapi jarang).Bisa terlihat bahwa kita kurang peduli terhadap lingkungan kita sendiri bahkan dalam hal-hal kecil seperti membuang sampah.jadi marilah kita menjaga lingkungan kita bersama untuk kepentingan bersama.:)
+        h2 Hujan Deras Yang Lama 
+          p DJika hujan terjadi dengan intensitas yang tinggi dalam waktu yang panjang bisa mengakibatkan suatu daerah yang tidak biasa banjir menjadi banjir jika tidak sigap menghadapi kuantitas air yang tidak wajar di luar kebiasaan normalnya.
 
+      section
+        h2 Cara mencegah banjir
+        h4
+          ul
+            li Membuat Saluran Air
+            li Membuang Sampah pada Tempatnya
+            li Membersihkan Saluran Air
+            li Membuat Bendungan
+            li Menanam Pohon
 
+      section
+        h2 Membuat Saluran Air
+          p Cara mencegah dan mengatasi banjir adalah dengan membuat saluran air. Ketika saluran air di perkotaan dibuat dengan baik, maka setiap hujan yang mengalir akan mudah dialirkan dan tidak akan menumpuk dan menyebabkan bencana banjir.
+
+      section
+        h2 Membuang Sampah pada Tempatnya
+          p Salah satu penyebab banjir adalah tumpukan sampah yang ada di sungai. Oleh karena itu, jika anda ingin mencegah banjir, buanglah sampah pada tempatnya, jangan membuang sampah di sungai karena hal tersebut membuat aliran sungai tidak lancar. 
+
+      section
+        h2 Membersihkan Saluran Air
+          p cara mencegah dan mengatasi banjir, salah satunya adalah dengan rutin membersihkan saluran air. Jika banyak sampah yang ada di saluran air, pastilah saluran tersebut akan mampet dan bisa menyebabkan banjir. Untuk itu, bersihkan saluran setidaknya sekali seminggu.
+
+      section
+        h2 Membuat Bendungan
+          p Agar banjir tidak meresahkan masyarakat, tak ada salahnya anda membuat bendungan di sekitar sungai. Dengan adanya bendungan tersebut, jika air sungai membludak saat hujan, air akan tertahan oleh bendungan dan tidak akan menyebabkan banjir sampai rumah warga.
+
+      section
+        h2 Menanam Pohon
+          p Ketika banyak pohon yang ditanam, maka air hujan akan terserap dengan baik ke tanah. Jika air hujan sudah terserap ke tanah, pastilah tidak ada banjir yang akan melanda.
+ 
     script(src='build/build.js')
