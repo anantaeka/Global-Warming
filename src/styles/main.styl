@@ -7,9 +7,29 @@
 @import 'prism/themes/prism-dark.css'
 // Check out "bower_components/prism/themes/" for available themeszz
 
-
-h2
+h3
 {
-  font-family: "Lucida Handwriting";
+   color:black;
+}
+.bespoke-slide {
+    background : white;
+    color:black;
+    transition: all .8s ease;
+    transform-origin: 50% 50% -400px;
 }
 
+article {
+    top: 50%;
+    height:600px;
+}
+.bespoke-inactive {
+    opacity: 0;
+}
+
+.bespoke-before {
+    transform: rotate(90deg);
+}
+
+.bespoke-after {
+    transform: rotateY(90deg);
+}
